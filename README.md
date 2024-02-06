@@ -33,7 +33,3 @@ I've started my tech curiosity during the start of pandemic while learning HTML/
 <a href="http://www.github.com/acamillemartin"><img src="https://github-readme-stats.vercel.app/api?username=acamillemartin&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="acamillemartin's GitHub stats" /></a>
 
 <a href="http://www.github.com/acamillemartin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=acamillemartin&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/acamillemartin"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=acamillemartin&bg_color=000000&color=ffffff&line=22c55e&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/acamillemartin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acamillemartin&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
