@@ -9,9 +9,9 @@ I've started my tech curiosity during the start of pandemic while learning HTML/
 * 🌍  I'm based in Manila, Philippines
 * 🖥️  See my portfolio at [CamilleSEO](http://camilleseo.com)
 * ✉️  You can contact me at [acamillemartin@gmail.com](mailto:acamillemartin@gmail.com)
-* 🚀  I'm currently working on [Data Science for SEO](http://ct.com)
+* 🚀  I'm currently working on [Learning More on Data Science](http://calendly.com)
 * 🧠  I'm learning Machine Learning Models and NLP
-* 🤝  I'm open to collaborating on Data Science Projects
+* 🤝  I'm open to collaborating on Projects
 * ⚡  I am a coffee addict, runner and a blood donor (galloner)
 
 ### Skills
