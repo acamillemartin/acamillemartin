@@ -12,7 +12,7 @@
 My tech journey began during the pandemic when curiosity led me to **freeCodeCamp**, where I dove into HTML & CSS. That spark grew into a passion for **SEO**, **data analytics**, and understanding the "why" behind every click, query, and conversion.
 
 - 🌏 &nbsp; Based in **Manila, Philippines**
-- 🖥️ &nbsp; Check out my portfolio → [**CamilleSEO**](http://camilleseo.com)
+- 🖥️ &nbsp; Check out my portfolio → [**CamilleSEO**](https://camilleseo.com)
 - 📊 &nbsp; I'm also a **Data Analyst** — I love turning messy data into clear insights
 - 🧠 &nbsp; Currently learning **Machine Learning Models & NLP**
 - 🚀 &nbsp; Working on expanding **[my portfolio](http://calendly.com)**
